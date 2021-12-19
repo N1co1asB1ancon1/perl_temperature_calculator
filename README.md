@@ -3,7 +3,7 @@
 This is a simple script that will ask you for temperature (Celsius or Fahrenheit) and convert it to fahrenheit (if celsius) or Celsius (If Fahrenheit)
 
 ## HOW DO I RUN IT??? 
- **Download the code**  `https://github.com/N1co1asB1ancon1/perl_temperature_calculator` 
+ **Download the code**  `git clone https://github.com/N1co1asB1ancon1/perl_temperature_calculator` 
  
  **CHANGE PERMISSIONS IF NECESSARY!** `chmod +x celsius2fahrenheit.pl`
  
