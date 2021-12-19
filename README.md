@@ -7,7 +7,7 @@ This is a simple script that will ask you for temperature (Celsius or Fahrenheit
  
  **Run the code** `perl celsius2fahrenheit.pl`
  
- **ENJOY!
+ **ENJOY!**
  
  ## DISCLAIMER
  Most of the code has ben totally stolen from the book [Mastering Regular Expressions](https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124)
